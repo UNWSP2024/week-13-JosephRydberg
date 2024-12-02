@@ -1,3 +1,4 @@
+#Reading Cities DataBase Joseph Rydberg 12/2/2024
 import sqlite3
 
 def main():
